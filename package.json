@@ -1,0 +1,15 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/capitalize.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch js/tests/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
